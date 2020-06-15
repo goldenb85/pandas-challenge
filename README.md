@@ -20,6 +20,13 @@ The report include following:
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
+### Purchasing Analysis (Gender)
+
+* The below each broken by gender
+  * Purchase Count
+  * Average Purchase Price
+  * Total Purchase Value
+  * Average Purchase Total per Person by Gender
 
 ## Data Source ##
 * [HeroesOfPymoli](HeroesOfPymoli/Resources/purchase_data.csv)
