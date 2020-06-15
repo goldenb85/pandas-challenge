@@ -53,6 +53,15 @@ The report include following:
   * Item Price
   * Total Purchase Value
 
+### Most Profitable Items
+
+* Identify the 5 most profitable items by total purchase value, then list (in a table):
+  * Item ID
+  * Item Name
+  * Purchase Count
+  * Item Price
+  * Total Purchase Value
+
 ## Data Source ##
 * [HeroesOfPymoli](HeroesOfPymoli/Resources/purchase_data.csv)
 ## Tool ##
