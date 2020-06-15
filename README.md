@@ -64,8 +64,9 @@ The report include following:
 
 ## Data Source ##
 * [HeroesOfPymoli](HeroesOfPymoli/Resources/purchase_data.csv)
-## Tool ##
 
+## Tool ##
+Python (Jupyter Notebook): Pandas, Numpy
 ## Visualization ##
 
 ## Contact ##
