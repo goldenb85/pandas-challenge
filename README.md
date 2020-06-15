@@ -14,6 +14,11 @@ The report include following:
 * Total Number of Purchases
 * Total Revenue
 
+### Gender Demographics
+
+* Percentage and Count of Male Players
+* Percentage and Count of Female Players
+* Percentage and Count of Other / Non-Disclosed
 
 
 ## Data Source ##
