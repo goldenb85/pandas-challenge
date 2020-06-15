@@ -68,6 +68,6 @@ The report include following:
 ## Tool ##
 Python (Jupyter Notebook): Pandas, Numpy
 ## Visualization ##
-
+Visualizations are the tables that are created in the Jupyter Notebook, can be checked in [Heroes-of-Pymolid](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb)
 ## Contact ##
 Email:xinlianghuang85@gmail.com
